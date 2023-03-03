@@ -1,1 +1,1 @@
-My first readme
+I'M junior software engineer
